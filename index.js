@@ -145,4 +145,3 @@ init();
 
 // Need Github Username interactivity, Need email address interactivity,
 // Need table of contents interactivity. See BTCMP Spot Mode 9 project criteria
-// Need to make sure README.md file is properly written to Github Repo, not just a file
